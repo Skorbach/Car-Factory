@@ -4,7 +4,7 @@ function Car(make, model, colour) {
   this.colour = colour;
 }
 
-var car1 = new Car("BMW", "BMW", "Blue");
+var car1 = new Car("BMW", "BMAW", "Blue");
 var car2 = new Car("VW", "VW", "Orange");
 
 console.log(car1);
